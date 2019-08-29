@@ -1,0 +1,6 @@
+C:\Users\Tanya\source\repos\Day10Tasks\BookService\bin\Debug\BookService.dll
+C:\Users\Tanya\source\repos\Day10Tasks\BookService\bin\Debug\BookService.pdb
+C:\Users\Tanya\source\repos\Day10Tasks\BookService\obj\Debug\BookService.csprojAssemblyReference.cache
+C:\Users\Tanya\source\repos\Day10Tasks\BookService\obj\Debug\BookService.csproj.CoreCompileInputs.cache
+C:\Users\Tanya\source\repos\Day10Tasks\BookService\obj\Debug\BookService.dll
+C:\Users\Tanya\source\repos\Day10Tasks\BookService\obj\Debug\BookService.pdb

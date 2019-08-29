@@ -1,0 +1,6 @@
+C:\Users\Tanya\source\repos\Day10Tasks\Day10Tasks\bin\Debug\Day10Tasks.dll
+C:\Users\Tanya\source\repos\Day10Tasks\Day10Tasks\bin\Debug\Day10Tasks.pdb
+C:\Users\Tanya\source\repos\Day10Tasks\Day10Tasks\obj\Debug\Day10Tasks.csprojAssemblyReference.cache
+C:\Users\Tanya\source\repos\Day10Tasks\Day10Tasks\obj\Debug\Day10Tasks.csproj.CoreCompileInputs.cache
+C:\Users\Tanya\source\repos\Day10Tasks\Day10Tasks\obj\Debug\Day10Tasks.dll
+C:\Users\Tanya\source\repos\Day10Tasks\Day10Tasks\obj\Debug\Day10Tasks.pdb
