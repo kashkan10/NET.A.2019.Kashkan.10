@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookServiceTests", "BookSer
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EuclidianGCD", "EuclidianGCD\EuclidianGCD.csproj", "{E362B4BB-3C1D-43C6-9E79-BC92C12CCEFB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JaggedArraySort", "JaggedArraySort\JaggedArraySort.csproj", "{F9D82FB8-7D31-4BA4-9F9C-C25CE0A01A0A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{E362B4BB-3C1D-43C6-9E79-BC92C12CCEFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E362B4BB-3C1D-43C6-9E79-BC92C12CCEFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E362B4BB-3C1D-43C6-9E79-BC92C12CCEFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9D82FB8-7D31-4BA4-9F9C-C25CE0A01A0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9D82FB8-7D31-4BA4-9F9C-C25CE0A01A0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9D82FB8-7D31-4BA4-9F9C-C25CE0A01A0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9D82FB8-7D31-4BA4-9F9C-C25CE0A01A0A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
