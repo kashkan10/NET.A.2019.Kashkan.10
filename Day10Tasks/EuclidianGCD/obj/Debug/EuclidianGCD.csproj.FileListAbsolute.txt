@@ -1,0 +1,6 @@
+C:\Users\Tanya\Documents\GitHub\NET.A.2019.Kashkan.10\Day10Tasks\EuclidianGCD\bin\Debug\EuclidianGCD.dll
+C:\Users\Tanya\Documents\GitHub\NET.A.2019.Kashkan.10\Day10Tasks\EuclidianGCD\bin\Debug\EuclidianGCD.pdb
+C:\Users\Tanya\Documents\GitHub\NET.A.2019.Kashkan.10\Day10Tasks\EuclidianGCD\obj\Debug\EuclidianGCD.csprojAssemblyReference.cache
+C:\Users\Tanya\Documents\GitHub\NET.A.2019.Kashkan.10\Day10Tasks\EuclidianGCD\obj\Debug\EuclidianGCD.csproj.CoreCompileInputs.cache
+C:\Users\Tanya\Documents\GitHub\NET.A.2019.Kashkan.10\Day10Tasks\EuclidianGCD\obj\Debug\EuclidianGCD.dll
+C:\Users\Tanya\Documents\GitHub\NET.A.2019.Kashkan.10\Day10Tasks\EuclidianGCD\obj\Debug\EuclidianGCD.pdb

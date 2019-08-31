@@ -1,0 +1,6 @@
+C:\Users\Tanya\Documents\GitHub\NET.A.2019.Kashkan.10\Day10Tasks\JaggedArraySort\bin\Debug\JaggedArraySort.dll
+C:\Users\Tanya\Documents\GitHub\NET.A.2019.Kashkan.10\Day10Tasks\JaggedArraySort\bin\Debug\JaggedArraySort.pdb
+C:\Users\Tanya\Documents\GitHub\NET.A.2019.Kashkan.10\Day10Tasks\JaggedArraySort\obj\Debug\JaggedArraySort.csprojAssemblyReference.cache
+C:\Users\Tanya\Documents\GitHub\NET.A.2019.Kashkan.10\Day10Tasks\JaggedArraySort\obj\Debug\JaggedArraySort.csproj.CoreCompileInputs.cache
+C:\Users\Tanya\Documents\GitHub\NET.A.2019.Kashkan.10\Day10Tasks\JaggedArraySort\obj\Debug\JaggedArraySort.dll
+C:\Users\Tanya\Documents\GitHub\NET.A.2019.Kashkan.10\Day10Tasks\JaggedArraySort\obj\Debug\JaggedArraySort.pdb

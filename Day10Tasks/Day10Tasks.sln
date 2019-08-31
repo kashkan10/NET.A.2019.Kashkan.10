@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EuclidianGCD", "EuclidianGC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JaggedArraySort", "JaggedArraySort\JaggedArraySort.csproj", "{F9D82FB8-7D31-4BA4-9F9C-C25CE0A01A0A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JaggedArraySortTests", "JaggedArraySortTests\JaggedArraySortTests.csproj", "{DC25A30B-0CF3-43BC-9EB4-5E769AD16ED5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{F9D82FB8-7D31-4BA4-9F9C-C25CE0A01A0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F9D82FB8-7D31-4BA4-9F9C-C25CE0A01A0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F9D82FB8-7D31-4BA4-9F9C-C25CE0A01A0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC25A30B-0CF3-43BC-9EB4-5E769AD16ED5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC25A30B-0CF3-43BC-9EB4-5E769AD16ED5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC25A30B-0CF3-43BC-9EB4-5E769AD16ED5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC25A30B-0CF3-43BC-9EB4-5E769AD16ED5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
