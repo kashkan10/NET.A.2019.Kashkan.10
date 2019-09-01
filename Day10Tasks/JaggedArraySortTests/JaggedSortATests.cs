@@ -1,9 +1,10 @@
 using JaggedArraySort;
+using JaggedArraySort.Comparers;
 using NUnit.Framework;
 
-namespace Tests
+namespace JaggedArraySortTests
 {
-    public class Tests
+    public class JaggedSortATests
     {
         [Test]
         public void SumOfSortTest()
@@ -24,7 +25,7 @@ namespace Tests
                 new int[] { 1, 2, 3, 4, 5, 6, 7, 8 }
             };
 
-            array.Compare(new SumOfSort());
+            JaggedSortA.Compare(array, new SumOfSort());
             Assert.AreEqual(array, expected);
         }
 
@@ -47,7 +48,7 @@ namespace Tests
                 new int[] { 4, 5, 6, 7, 8 },
             };
 
-            array.Compare(new MinOfSort());
+            JaggedSortA.Compare(array, new MinOfSort());
             Assert.AreEqual(array, expected);
         }
 
@@ -70,7 +71,7 @@ namespace Tests
                 new int[] { 1, 2, 3, 4, 5, 9 }
             };
 
-            array.Compare(new MaxOfSort());
+            JaggedSortA.Compare(array, new MaxOfSort());
             Assert.AreEqual(array, expected);
         }
     }

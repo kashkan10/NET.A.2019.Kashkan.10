@@ -1,10 +1,14 @@
 <stylecopresultscache>
   <version>12</version>
-  <sourcecode name="AssemblyInfo.cs" parser="StyleCop.CSharp.CsParser">
+  <project key="1260188098">
+    <configuration>
+    </configuration>
+  </project>
+  <sourcecode name="GCD.cs" parser="StyleCop.CSharp.CsParser">
     <timestamps>
       <styleCop>2019.04.15 18:58:21.343</styleCop>
       <settingsFile>2019.08.28 15:11:52.900</settingsFile>
-      <sourceFile>2019.08.29 21:03:45.139</sourceFile>
+      <sourceFile>2019.08.29 21:11:44.206</sourceFile>
       <parser>2019.04.15 18:58:21.343</parser>
       <StyleCop.CSharp.DocumentationRules>2019.04.15 18:58:21.343</StyleCop.CSharp.DocumentationRules>
       <StyleCop.CSharp.DocumentationRules.FilesHashCode>832728774</StyleCop.CSharp.DocumentationRules.FilesHashCode>
@@ -23,14 +27,11 @@
     </timestamps>
     <violations />
   </sourcecode>
-  <project key="1260188098">
-    <configuration>DEBUG;TRACE</configuration>
-  </project>
-  <sourcecode name="GCD.cs" parser="StyleCop.CSharp.CsParser">
+  <sourcecode name="AssemblyInfo.cs" parser="StyleCop.CSharp.CsParser">
     <timestamps>
       <styleCop>2019.04.15 18:58:21.343</styleCop>
       <settingsFile>2019.08.28 15:11:52.900</settingsFile>
-      <sourceFile>2019.08.29 21:08:41.775</sourceFile>
+      <sourceFile>2019.08.29 21:03:45.139</sourceFile>
       <parser>2019.04.15 18:58:21.343</parser>
       <StyleCop.CSharp.DocumentationRules>2019.04.15 18:58:21.343</StyleCop.CSharp.DocumentationRules>
       <StyleCop.CSharp.DocumentationRules.FilesHashCode>832728774</StyleCop.CSharp.DocumentationRules.FilesHashCode>

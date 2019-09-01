@@ -1,5 +1,13 @@
 <stylecopresultscache>
   <version>12</version>
+  <project key="1333404650">
+    <configuration>
+    </configuration>
+  </project>
+  <project key="1507055307">
+    <configuration>
+    </configuration>
+  </project>
   <sourcecode name="BookExtensionTest.cs" parser="StyleCop.CSharp.CsParser">
     <timestamps>
       <styleCop>2019.04.15 18:58:21.343</styleCop>
@@ -46,8 +54,4 @@
     </timestamps>
     <violations />
   </sourcecode>
-  <project key="1333404650">
-    <configuration>
-    </configuration>
-  </project>
 </stylecopresultscache>

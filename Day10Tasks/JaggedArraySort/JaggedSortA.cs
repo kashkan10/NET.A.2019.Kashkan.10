@@ -3,14 +3,14 @@ using System.Collections.Generic;
 
 namespace JaggedArraySort
 {
-    public static class JaggedSort
+    public static class JaggedSortA
     {
         /// <summary>
         /// Sort method with IComparer as parameter
         /// </summary>
         /// <param name="arr">Jagged array</param>
         /// <param name="comparer"></param>
-        public static void Compare(this int[][] arr, IComparer<int[]> comparer)
+        public static void Compare(int[][] arr, IComparer<int[]> comparer)
         {
             if (arr == null || comparer == null)
             {
@@ -25,7 +25,7 @@ namespace JaggedArraySort
         /// </summary>
         /// <param name="arr">Jagged array</param>
         /// <param name="comparer">Second array</param>
-        public static void Sort(this int[][] arr, Comparison<int[]> comparer)
+        public static void Sort(int[][] arr, Comparison<int[]> comparer)
         {
             if (arr == null || comparer == null)
             {

@@ -41,8 +41,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Comparers.cs" />
-    <Compile Include="JaggedSort.cs" />
+    <Compile Include="ComparerAdapter.cs" />
+    <Compile Include="Comparers\MaxOfSort.cs" />
+    <Compile Include="Comparers\MinOfSort.cs" />
+    <Compile Include="Comparers\SumOfSort.cs" />
+    <Compile Include="JaggedSortB.cs" />
+    <Compile Include="JaggedSortA.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
